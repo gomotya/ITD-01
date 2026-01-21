@@ -67,4 +67,4 @@
 
 ### Пример работы визуализатора c файлом dataset_01.json:
 
-<img src="image.png" width="700" alt="Пример">
+<img src="example.png" width="700" alt="Пример">
